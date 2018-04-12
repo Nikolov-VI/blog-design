@@ -19,10 +19,22 @@ body {
     text-align: center;
 }
 
+.inputBox a {
+    font-size: 22px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #ffd11a;
+}
+
 .inputBox h2 {
     font-size: 34px;
     letter-spacing: 2px;
     margin-bottom: 15%;
+}
+
+.inputBox h5 {
+    font-size: 20px;
+    margin-bottom: 2%    ;
 }
 
 .inputBox input {
@@ -45,7 +57,7 @@ body {
 
 .inputBox button {
     width: 75%;
-    margin: 7.5% 12% 5% 12%;
+    margin: 7.5% 12% 2% 12%;
     padding: 10px 50px;
 
     color: #fff;
