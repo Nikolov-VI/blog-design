@@ -29,15 +29,15 @@ body {
 .inputBox h2 {
     font-size: 34px;
     letter-spacing: 2px;
-    margin-bottom: 15%;
+    margin-bottom: 12%;
 }
 
 .inputBox h5 {
     font-size: 20px;
-    margin-bottom: 2%    ;
+    margin-bottom: 2%;
 }
 
-.inputBox input {
+.loginBox input {
     width: 75%;
     height: 30px;
     margin: 1% 12% 10% 12%;
@@ -50,9 +50,27 @@ body {
     color: #000;
 }
 
-.inputBox label {
+.loginBox label {
     color: #fff;
     font-size: 25px;
+}
+
+.registerBox input {
+    width: 75%;
+    height: 28px;
+    margin: 1% 12% 5% 12%;
+
+    border: none;
+    border-radius: 2px;
+
+
+    text-align: center;
+    color: #000;
+}
+
+.registerBox label {
+    color: #fff;
+    font-size: 20px;
 }
 
 .inputBox button {
@@ -65,5 +83,4 @@ body {
     border-radius: 4px;
     background-color: #2ECC71;
     border-bottom: 4px solid #27AE60;
-    opacity: 1;
 }
