@@ -1,0 +1,36 @@
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url("../img/typing.jpg");
+    background-size: cover;
+}
+
+.inputBox {
+    margin: 7% 37%;
+    padding: 3%;
+    height: 500px;
+
+    background-color: #000;
+    opacity: 0.75;
+
+    color: #fff;
+    text-align: center;
+}
+
+.inputBox h2 {
+    font-size: 34px;
+    letter-spacing: 2px;
+    margin-bottom: 15%;
+}
+
+.inputBox input {
+    ;
+
+}
+
+.inputBox label {
+    color: #fff;
+    font-size: 25px;
+}
